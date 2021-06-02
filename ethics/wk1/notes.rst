@@ -17,7 +17,6 @@ Free Stuff - How do users "pay" for these things
 * Generosity, people sharing their expertise
 
 Turing Test
-___________
-
+-----------
 If the computer convinces the human subject that the computer is human, the
 computer is said to "pass".
