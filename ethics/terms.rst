@@ -287,3 +287,36 @@ Rule 41
     remotely hack the computer (using a VPN)
   * Any computeer that is part of a botnet system would be fair game for
     surveillance and remote hacking.
+
+Telecommunications Act of 1996 (Part 1)
+---------------------------------------
+2002 update: Changed regulatory structure of telephone services: ISPs are info
+services, not common carriers -> they are not subject to regulation by the FCC
+-> ISPs can do/charge what they want.
+(Part 2)
+"NO PROVIDER... of interactive computer services SHALL BE TREATED AS A
+PUBLISHER of any information provided by another information - content
+provider."
+
+Chilling Effect
+---------------
+Discouragement/suppression of legal behavior (including speech)
+
+Communications Decency Act of 1996 (CDA) - X
+--------------------------------------------
+* First major Internet censorship law
+* Made it a crime to make available to anyone under 18 any obscene or indecent
+  communication. 
+
+Children's Internet Protection Act of 2000 (CIPA)
+-------------------------------------------------
+* Requires schools and libraries that paticipate in certain federal programs to
+  install filtering software.
+* **Upheld in court**
+
+Can-Spam Act 2003
+-----------------
+* Law against sending strangers adverts for porn or marketing stuff
+* "Not illegal to send that stuff, but you have to follow certain rules."
+* Criticized for not banning all spam, legitimized commercial spam
+
