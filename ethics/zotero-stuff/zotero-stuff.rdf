@@ -1,0 +1,265 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Document rdf:about="https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>The Verge</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Statt</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_2"/>
+        <dc:title>Amazon keeps trying to troll US Congress members in perplexing new PR strategy</dc:title>
+        <dcterms:abstract>Amazon’s PR strategy is increasingly unhinged.</dcterms:abstract>
+        <dc:date>2021-03-26T17:08:01-04:00</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:02:58</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_2">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/2/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:03:06</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="#item_3">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>The Verge</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Statt</foaf:surname>
+                        <foaf:givenName>Nick</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_4"/>
+        <dc:title>Amazon keeps trying to troll US Congress members in perplexing new PR strategy</dc:title>
+        <dcterms:abstract>Amazon’s PR strategy is increasingly unhinged.</dcterms:abstract>
+        <dc:date>2021-03-26T17:08:01-04:00</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:03:17</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_4">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/4/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.theverge.com/2021/3/26/22352977/amazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:03:21</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://fortune.com/company/amazon-com/fortune500/">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Fortune</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                   <foaf:Person><foaf:surname>Forbes</foaf:surname></foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_6"/>
+        <dc:title>Amazon | 2021 Fortune 500</dc:title>
+        <dcterms:abstract>This year’s Fortune 500 marks the 67th running of the list.</dcterms:abstract>
+        <dc:date>2021</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fortune.com/company/amazon-com/fortune500/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:33:40</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_6">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/6/fortune500.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://fortune.com/company/amazon-com/fortune500/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:33:44</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://gizmodo.com/the-first-internet-troll-1652485292">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Gizmodo</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Feinberg</foaf:surname>
+                        <foaf:givenName>Ashley</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_8"/>
+        <dc:title>The Birth of the Internet Troll</dc:title>
+        <dcterms:abstract>Trolls are shitting all over our internet. You can hardly search for something as innocuous as &quot;dog&quot; on Google without coming across inflammatory attacks on every possible dog-related opinion under the sun. All horrible things have to crawl before they can walk/crush spirits, though. Even trolls.</dcterms:abstract>
+        <dc:date>10/30/14, 3:36:00 PM</dc:date>
+        <z:language>en-us</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://gizmodo.com/the-first-internet-troll-1652485292</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:42:30</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_8">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/8/the-first-internet-troll-1652485292.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://gizmodo.com/the-first-internet-troll-1652485292</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 06:42:35</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://twitter.com/SenWarren/status/1375189145476288513">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>@SenWarren</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Elizabeth Warren</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_10"/>
+        <link:link rdf:resource="#item_11"/>
+        <dc:title>Giant corporations like Amazon report huge profits to their shareholders – but they exploit loopholes and tax havens to pay close to nothing in taxes. That’s just not right – and it’s why I’ll be introducing a bill to make the most profitable companies pay a fair share. https://t.co/vPrmGbjUKW</dc:title>
+        <dc:date>2021-03-25T20:53Z</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/SenWarren/status/1375189145476288513</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 07:16:55</dcterms:dateSubmitted>
+        <z:type>Tweet</z:type>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_10">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Link</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+               <rdf:value>https://t.co/vPrmGbjUKW</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 07:16:55</dcterms:dateSubmitted>
+        <z:linkMode>3</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Attachment rdf:about="#item_11">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/11/1375189145476288513.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/SenWarren/status/1375189145476288513?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375247759414992897%7Ctwgr%5E%7Ctwcon%5Es2_&amp;ref_url=https%3A%2F%2Fwww.theverge.com%2F2021%2F3%2F26%2F22352977%2Famazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 07:16:59</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://twitter.com/amazonnews/status/1375247759414992897">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog><dc:title>@amazonnews</dc:title></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                       <foaf:surname>Amazon News</foaf:surname>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_13"/>
+        <dc:title>@SenWarren 1/3 You make the tax laws @SenWarren; we just follow them. If you don’t like the laws you’ve created, by all means, change them. Here are the facts: Amazon has paid billions of dollars in corporate taxes over the past few years alone.</dc:title>
+        <dc:date>2021-03-26T00:46Z</dc:date>
+        <z:language>en</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/amazonnews/status/1375247759414992897</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 07:22:22</dcterms:dateSubmitted>
+        <z:type>Tweet</z:type>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_13">
+        <z:itemType>attachment</z:itemType>
+        <rdf:resource rdf:resource="files/13/1375247759414992897.html"/>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://twitter.com/amazonnews/status/1375247759414992897?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1375247759414992897%7Ctwgr%5E%7Ctwcon%5Es1_&amp;ref_url=https%3A%2F%2Fwww.theverge.com%2F2021%2F3%2F26%2F22352977%2Famazon-twitter-feud-bernie-sanders-elizabeth-warren-trolling-labor-pee-bottles</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-06-14 07:22:27</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <z:Collection rdf:about="#collection_1">
+        <dc:title>Ethics</dc:title>
+        <dcterms:hasPart rdf:resource="#item_3"/>
+        <dcterms:hasPart rdf:resource="https://fortune.com/company/amazon-com/fortune500/"/>
+        <dcterms:hasPart rdf:resource="https://gizmodo.com/the-first-internet-troll-1652485292"/>
+        <dcterms:hasPart rdf:resource="https://twitter.com/SenWarren/status/1375189145476288513"/>
+        <dcterms:hasPart rdf:resource="https://twitter.com/amazonnews/status/1375247759414992897"/>
+    </z:Collection>
+</rdf:RDF>
