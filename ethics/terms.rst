@@ -120,7 +120,7 @@ Logical Fallacies
 4. **Argument from Authority** - Arguing that if an authority says something,
    its veracity (trueness) is beyond doubt.
 5. **Balance Fallacy** - The presentation of an issue as being more balanced
-   than th eevidence supports. Ascribing equal value to both sides of an
+   than the evidence supports. Ascribing equal value to both sides of an
    arguments, regardless of evidence or merit. Related to "Middle ground"
    fallacy. Two causes of misinformation: Proportionality & Omission
 6. **Begging the Question** - Circular reasoning. 
