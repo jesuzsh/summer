@@ -320,3 +320,8 @@ Can-Spam Act 2003
 * "Not illegal to send that stuff, but you have to follow certain rules."
 * Criticized for not banning all spam, legitimized commercial spam
 
+3 Things To Consider Before Leaking Info
+----------------------------------------
+1. Type of material
+2. Value to society
+3. Risks to society and individuals
