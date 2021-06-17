@@ -1,0 +1,131 @@
+Paper: Ethical Analysis
+=======================
+By Jesus Garcia
+
+What are the ethical aspects posed by this paper?
+-------------------------------------------------
+Amazon working conditions - "people are being forced to pee in bottles."
+Amazon tax history - "they exploit loopholes and tax havens to pay close to
+nothing in taxes."
+These are the two ethical situations presented in the article.
+
+
+Outline of the paper: 
+
+Background
+----------
+What is the news event: Amazon trolling representatives
+
+The Players
+-----------
+Amazon News (@amazonnews)
+Sen. Elizabeth Warren (@SenWarren)
+Dave Clark (@davehclark)
+Bernie Sanders (@BernieSanders)
+Rep. Mark Pocan (@repmarkpocan)
+Alexandria Ocasio-Cortez (@AOC)
+
+Cognitive Biases
+----------------
+There are a few biases:
+* an acusation of automation bias
+  - automated system - law making process
+  - non-automated system - amazon's min. wage
+* Intertia Bias - sticking with an idea even if you should update it
+  - Amazon News
+
+Logical Fallacies
+-----------------
+* a Tu Quoique by Dave Clark
+  - "All we want to know is why the Sen is one of the most powerful pols in VT
+    for 30+ yrs and thei min wage is STILL only $11.75."
+* Straw Man by Amazon News
+  - "One of the most powerful politicians in the United States just said she's
+    going to break up an American company so that they can't criticize her
+    anymore."
+
+Work in Progress (WIP)
+----------------------
+Include brief explanations of any major developments between the state of the
+issue before it was newsworthy and the present.
+
+Thought Process
+---------------
+What is the issue? Two ethical situations decribed above. 
+Have they always existed? No
+
+To be the company that it is today, it was forced to grow and adapt. The first
+entity to do it at this scale. These issues are a by product of Amazon getting
+to it's current size.
+
+Draft
+-----
+A troll is an entity that responds to posts on social media in a way that
+pokes fun or goes against the ideas in the original post. Trolls are everywhere
+and they usually go by unnoticed, but when we see one of the largest tech
+companies in the world, Amazon, play the troll, people take
+notice--especially if respectable state representatives are the ones being
+trolled. This is exactly what we see in an article from The Verge which
+highlights two aspects of Amazon's identity being under fire: their tax history
+and employee working conditions (Statt, 2021).
+
+With a mix of executives and state representatives getting involved we see both
+automation bias and intertia bias. Amazon's Worldwide Consumer CEO, Dave Clark,
+accuses Bernie Sanders of **automation bias** when talking about how the senator's 
+home state of VT has a minimum wage less than that of Amazon (Clark, 2021,
+Potasznik, Day 3).
+The automated system is the formal legal process Sanders is a part of, in which
+the possibility of raising the state's minimum wage resides. The non-automated
+system would be Amazon's process which allows for a higher minimum wage.
+Senator Sanders is being urged to consider Amazon's view on minimum wage. This
+response from Clark could be an attempt to keep the focus on minimum wage,
+which from a basic lense, usually looks good when compared to anything. Inertia
+bias is seen in Amazon New's response to comments on their employee working
+conditions, particularly the fact that workers pee in bottles to meet their
+rates (Potasznik, Day 3). Instead of acknowledging these circumstances that exist within their
+workforce, they deny the idea and stick to their claim that peeing in bottles
+doesn't actually happen while highlighting the bright side like, "we have
+over a million incredible employees... who are proud of what they do, and have
+great wages and health care from day one" (Amazon News, 2021).
+
+Employee working conditions and their tax activities are two ethical concerns
+when it comes the the tech giant, but they haven't always existed. These are
+both byproducts of the tremendous growth Amazon has undergone. Along the way
+they've broken barriers at a scale no one's seen before so problems like these
+were bound to happen and are just now being dealt with by law makers. 
+
+Through the trolling presented by the article, a light is shed on how both
+parties, Amazon and representatives, are using the platform. On the
+representative side we are seeing powerful politicians like Bernie Sanders and
+Elizabeth Warren use their tweets as a way to keep their constituents in the
+loop. Warren informs her followers that she'll "be introducing a bill to make
+the most profitable companies pay a fair share" (Warren, 2021). Sanders,
+focusing on employee working conditions, uses the platform to announce he'll be
+"meeting with Amazon workers in Alabama on Friday" (Sanders, 2021). Both
+representatives are prime examples of politicians who are acting upon the words
+they tweet. Additional ethical concerns arise when representatives discuss
+particular concerns in society, but decide not to pursue actionable change. In
+these cases their follower's support is mislead by such representatives who've managed
+to find ways to abuse the power of a platform like Twitter.
+
+However, from what we can see in the article, Amazon's use of the platform
+feels more like a PR strategy to shield the company as much as possible. Amazon
+evades a tax related comment from Warren with a classic **straw man** fallacy
+(Potasznik, Day 3), claiming Senator Warren is trying to "break up an American
+company" with her work on fairly taxing big tech (Amazon News, 2021). With this
+move from Amazon we can safely assume they were talking to the people who
+support the company and this type of addressing is an action that'll abuse the
+power of the platform. Some people are going to see what Amazon is saying more
+than they'll see what it was in response to. Depriving supporters of the full
+picture is one of the last things these large organizations should be using the
+platform for, yet it's one of the direct results of choosing to divert rather
+than explain.
+
+In conclusion, tweeting through the platform, Twitter, can become an ethical
+concern when people, or entities, of power are using the platform to mislead
+their followers. We see how Amazon is misleading through evading a couple
+ethical concerns being brought against them, but it's important to understand
+that representatives could be doing the same. Therefore, with this reality, the
+perspective an entity takes on how they should use the platform is best when
+their followers' best interests are considered because they'll be the ones mislead
+if it isn't. 
