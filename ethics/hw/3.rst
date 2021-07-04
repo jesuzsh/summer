@@ -1,0 +1,116 @@
+Jesus Garcia
+============
+Homework for day 6, 7, and 8.
+
+Day 6
+-----
+1. An operator must obtain parent's consent if the data of a child is involved.
+   They are also required to provide data to the parent upon request. I think
+   the requirements are too lenient for the "verifiable parental consent"
+   possibilities. If the possibilities were thinned, then there would be less
+   ways for a child to forge parental consent. For example, if
+   video-conferencing verification was the only option, no child would slip
+   through. Instead of "verifiable parental consent" operators could not
+   collect a child's data.
+
+2. My opinion is the publishers/admins need to have some responsibility in all
+   cases because the platform is theirs and provided by them to the criminals.
+   It's like giving a murderer a gun. I'd say they should be more thoughtful
+   about the negative potential their platform could have. My opinions on
+   SESTA/FOSTA is that it's really unfortunate that online sex workers were
+   displaced into more dangerous environments to operate in.
+
+3. The logic does not apply because a phone is an individuals property and they
+   should have a right to do anything they want on it. I think it's natural
+   that people don't think "I hope no one else sees what I'm doing on my phone
+   right now." 
+
+4. Hacker - 100%. If I were being hacked, that would bring harm to me. It does
+   not feel good. Especially if I am not tormenting others, I do not think it's
+   possible to be rightfully hacked. If someone posted my stuff, the hacker
+   made it possible. I don't think I should have blame unless the leaked
+   material was already in it of itself a leak. 
+
+Day 7
+-----
+1. Chelsea Manning's type of material was arial footage of bombing reporters
+   that allegedly came with audio of soldiers who loved what they did. The
+   value to society was people who didn't like the war got more motivation to
+   advocate against it. The risks to society and individuals are the US
+   Military gets a stain on their reputation. With all this considered, I think
+   was she did was justified. I haven't heard what the soldiers were saying but
+   I'd say that's the most important part. Hearing what they say sheds light on
+   how they think which sheds light on the systematic training of these
+   soldiers and whether or not it's an ethical methodology.
+
+2. Edward Snowden's type of material was proof that the NSA was tracking
+   virtually all communications. The value to society that this had was people
+   learned the truth about how the government was getting all of society's
+   data. The risks to society was that the government was no longer "under the
+   radar" with this mass data collections. Since the truth is valuable, I'd say
+   that this is justified. 
+
+3. Reality Winner's type of material was information of a Russian cyberattack
+   in 2016. The value to society of her actions was again, the truth,
+   and people who were already not in support of Trump may have gotten more
+   passionate. The risks to society are the vulnerabilities exploited described
+   in the leaked cyber attack report. This leak probably made the involved
+   systems even more vulnerable to attacks. With a leak like this, I think it's
+   important that context is obtained to provide a fuller picture. Maybe it was
+   impossible for her to obtain context, and in that case, I think she did the
+   right thing.
+
+Day 8
+-----
+1. Done.
+
+2. If the government is going to use it against millions of other people who
+   aren't dead terrorists, then I'm against it. If the plan is to only use it
+   in dead terrorist scenarios, then I'll support them. We can probably assume
+   it's the former and that's unfortunate. 
+
+3. I believe anonymity is appropriate almost everywhere on the internet.
+   Websites with a history of malicious activity should prohibit anonymity.
+   People will stop if their identity is attached. Review sites should still
+   allow anonymous reviews, and they should also have a way to prevent
+   fraudulent reviews. One way to do that would be to have a process that
+   verifies you have actually experienced what you're reviewing.
+
+4. If censorship and surveillance are illegal in the US because of our negative
+   rights then American companies with products that do exactly that are
+   hypocrits. An argument for these companies is they are good about keeping it
+   abroad and not within the US. An argument against them is that our American
+   negative rights should extend to all humans of the world. I wouldn't be
+   surprised if the work being done by these American companies is all about
+   money and they're just being used by the government. Maybe even giving
+   grants for the type of research that advances this type of thing. 
+
+
+Responses to my peers
+=====================
+
+Changsheng Li
+-------------
+Hi Changsheng, 
+I like your suggested alternative of educating the children about internet
+safety. My only questions about this is what the goal we try to teach the
+children should be and who's going to decide that. What will we tell them about
+data colletion and how will that idea develop in their children brains. I feel
+that something like this could possibly be left to the responsibility of the
+parents.
+
+DuyAnh Nguyen
+-------------
+Hi DuyAnh,
+Providers make these platforms by being extrememly intentional with the code
+they're writing. Therefore, I'm suggesting that they are capable of deriving
+most scenarios that are going to take place on a platform that they built. So,
+I think shifting blame on to providers would change the provider culture for
+the better by increasing accountability vibes on their end. 
+
+Raymond Dugas
+-------------
+Hi Raymond,
+I think your point that other countries would find other ways to acquire
+censorship and surveillance products if US companies weren't providing them is
+an important one. It shows how messed up the reality of the situation is. 
