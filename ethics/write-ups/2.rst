@@ -1,0 +1,76 @@
+Paper 2: Ethical Analysis
+=========================
+By Jesus Garcia
+
+What are the ethical aspects posed by this paper?
+-------------------------------------------------
+Targeted attacks on law enforcement agencies, emergency medical services, 9-1-1
+dispatch centers, and minicipalities in the U.S.
+
+Cognitive Biases
+----------------
+* Intertia bias, organizations like hospitals and law inforcement agencies have
+  stayed with their outdated, vulnerable infrastructure. 
+
+
+Players
+-------
+Russian hacking group - Wizard Spider
+Vital institutions around the world.
+
+Draft
+-----
+Wizard Spider isn't a spider with a staff and a pointy hat, but a Russia-based,
+high-profile and sophisticated eCrime group (The CrowdStrike Intel Team, 2020).
+While hacking occurs against a variety of entities, I want to focus on the
+recent work done by this particular group. Within the last year, they've
+targeted various medical and first responder networks in the U.S. These attacks
+utilize ransomware to encrypt files of every computer on a network and extort
+payment in exchange for dycrypting the files (Stanley, 2021).
+
+From the U.S. institutions targeted, we can see signs of inertia bias in
+the way that they've maintained vulnerable, legacy systems rather than updating
+and protecting them as vulnerabilities are identified. These institutions have
+witnessed cyber attacks on other organizations for years, but have failed to
+revise their systems to protect them from those same attacks. This leads us to
+our first ethical concern. Why are institutions like hospitals not updating and
+securing their technical infrastructure? It's possible that in some of these
+cases it all comes down to money. 
+
+The first ethical concern is raised when these institution are looking at their
+infrastructure and vulnerabilites with a monetary lense when deciding how to
+secure or not secure their systems. If a hospital is struggling to make a profit,
+but they have a legacy system that's allowing them to operate normally, are they
+going to spend the thousands required to update and secure their
+system? If the answer is no, then there could very well be consequences to that
+decision. The same can be said by a hospital that is doing well, they could
+decide to continue doing well for themselves through bypassing the costs
+associated with securing their system. This responsibility would fall onto the
+exectives managing these institutions and making decisions on where to divert
+their resources. If executives decide not to secure their systems it not only
+puts the entire institution at risk, but it will also affect the people that
+they serve. In the context of a hospital that digitally stores medical records of
+their patients, the patient's data would not be protected and would be exploited
+if there were to be an attack. We can see here how the allocation of resources
+decided by executives could have ramifications that could negatively impact an
+institution and the people they serve. 
+
+Another ethical concern is raised if hackers decide to lock up all the data at 
+a hospital. A medical professional becomes unable to access that data, so any 
+data dependent actions the hospital needs to execute is impossible until
+the data is returned to them. Being that a hospital usually is a place of 
+life and death situations, it should be able to do any and all patient related 
+actions at any given time. Putting a stop to normal operations puts lives at 
+risk, and it's something that hacking groups deemed less important than the
+money they are asking for to unlock these systems. Only these hackers know the
+types of institutions they plan on targeting, and the sheer number of 
+vulnerabilities present in our modern day systems essentially mean that no one
+is safe. Clandestine hacker groups raise ethical concerns in regards to their
+actions that jeopardize digital assets and operations dependent on those assets.
+Additionally, they prompt a deeper look into the reasons for vulnerabilities 
+among targeted institutions which shed light on the ethicality of the decisions
+being made at the exective level. 
+
+Left to Do
+----------
+1. Cite the class term, inertia bias.

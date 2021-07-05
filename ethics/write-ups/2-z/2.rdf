@@ -1,0 +1,89 @@
+<rdf:RDF
+ xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+ xmlns:z="http://www.zotero.org/namespaces/export#"
+ xmlns:dcterms="http://purl.org/dc/terms/"
+ xmlns:dc="http://purl.org/dc/elements/1.1/"
+ xmlns:bib="http://purl.org/net/biblio#"
+ xmlns:foaf="http://xmlns.com/foaf/0.1/"
+ xmlns:link="http://purl.org/rss/1.0/modules/link/">
+    <bib:Document rdf:about="https://gizmodo.com/fbi-conti-ransomware-gang-behind-ireland-attack-also-h-1846946291">
+        <z:itemType>webpage</z:itemType>
+        <dcterms:isPartOf>
+           <z:Website><dc:title>Gizmodo</dc:title></z:Website>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Stanley</foaf:surname>
+                        <foaf:givenName>Alyse</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_15"/>
+        <dc:title>FBI: Conti Ransomware Gang Behind Ireland Attack Also Hit 16 U.S. Health and Emergency Networks</dc:title>
+        <dcterms:abstract>The same hackers that took down the Irish health system last week also hit at least 16 U.S. medical and first responder networks in the past year, according to a Federal Bureau of Investigation alert made public Thursday by the American Hospital Association.</dcterms:abstract>
+        <dc:date>5/21/2021, 11:19:00 PM</dc:date>
+        <z:language>en-us</z:language>
+        <z:shortTitle>FBI</z:shortTitle>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://gizmodo.com/fbi-conti-ransomware-gang-behind-ireland-attack-also-h-1846946291</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-04 19:37:12</dcterms:dateSubmitted>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_15">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://gizmodo.com/fbi-conti-ransomware-gang-behind-ireland-attack-also-h-1846946291</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-04 19:37:16</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+    <bib:Document rdf:about="https://www.crowdstrike.com/blog/wizard-spider-adversary-update/">
+        <z:itemType>blogPost</z:itemType>
+        <dcterms:isPartOf>
+           <z:Blog></z:Blog>
+        </dcterms:isPartOf>
+        <bib:authors>
+            <rdf:Seq>
+                <rdf:li>
+                    <foaf:Person>
+                        <foaf:surname>Team</foaf:surname>
+                        <foaf:givenName>The CrowdStrike Intel</foaf:givenName>
+                    </foaf:Person>
+                </rdf:li>
+            </rdf:Seq>
+        </bib:authors>
+        <link:link rdf:resource="#item_17"/>
+        <dc:title>Wizard Spider Modifies and Expands Toolset [Adversary Update]</dc:title>
+        <dcterms:abstract>The CrowdStrike Intelligence team shares its analysis of key observations from WIZARD SPIDER's BazarLoader, Conti and Ryuk operations over recent months.</dcterms:abstract>
+        <dc:date>2020-10-16T17:38:20+00:00</dc:date>
+        <z:language>en-US</z:language>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.crowdstrike.com/blog/wizard-spider-adversary-update/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-04 20:07:49</dcterms:dateSubmitted>
+        <dc:description>Section: Research &amp; Threat Intel</dc:description>
+    </bib:Document>
+    <z:Attachment rdf:about="#item_17">
+        <z:itemType>attachment</z:itemType>
+        <dc:title>Snapshot</dc:title>
+        <dc:identifier>
+            <dcterms:URI>
+                <rdf:value>https://www.crowdstrike.com/blog/wizard-spider-adversary-update/</rdf:value>
+            </dcterms:URI>
+        </dc:identifier>
+        <dcterms:dateSubmitted>2021-07-04 20:07:54</dcterms:dateSubmitted>
+        <z:linkMode>1</z:linkMode>
+        <link:type>text/html</link:type>
+    </z:Attachment>
+</rdf:RDF>

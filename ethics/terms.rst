@@ -73,9 +73,9 @@ Cognitive Dissonance
 
 Conflicts of Interest
 ---------------------
-* Situations that have the otential to undermine the impartiality of **a person**
-  because of the possibility of :underline:`a clash between the person's self-interest and
-  profession interest or public interest`
+* Situations that have the potential to undermine the impartiality of **a person**
+  because of the possibility of :underline:`a clash between the person's 
+  self-interest and profession interest or public interest`
 * self dealing
 * Nepotism
   * Ulysses S. Grant hired over 40 of his relatives (1869-1877)
