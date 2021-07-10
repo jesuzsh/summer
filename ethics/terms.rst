@@ -199,7 +199,7 @@ Conclusion: A = C
 Automation Bias
 ---------------
 The tendency to trust automated systems (and even ignore contradictory correct
-information if it comes from a non-automated source).
+information if it comes from a non-automated source)
 
 Automation Complacency
 ----------------------
@@ -497,7 +497,7 @@ one or more copies of copyrighted work with a total value of more than $1,000
 within a 6 month period.
 
 Fair Use Doctrine
------------------
+----------------
 * Four factors considered
   1. Purpose and nature of use - commercial (less likely) or nonprofit purposes
   2. Nature of the copyrighted work
@@ -590,7 +590,7 @@ Look & Feel
 * Method of operation, not design
 
 From Day 11
-===========
+=========
 Photography, Photo ethics and copyright, Deep fakes
 * Shephard Fairey
 * Afghan girl

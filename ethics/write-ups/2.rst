@@ -28,14 +28,16 @@ targeted various medical and first responder networks in the U.S. These attacks
 utilize ransomware to encrypt files of every computer on a network and extort
 payment in exchange for dycrypting the files (Stanley, 2021).
 
-From the U.S. institutions targeted, we can see signs of inertia bias in
-the way that they've maintained vulnerable, legacy systems rather than updating
-and protecting them as vulnerabilities are identified. These institutions have
-witnessed cyber attacks on other organizations for years, but have failed to
-revise their systems to protect them from those same attacks. This leads us to
-our first ethical concern. Why are institutions like hospitals not updating and
-securing their technical infrastructure? It's possible that in some of these
-cases it all comes down to money. 
+From the U.S. institutions targeted, we can see signs of inertia bias. Intertia
+bias is the tendency to stay with an idea without updating or revising it
+despite evidence that doing so would be beneficial (Potasznik, Day 3). This is
+what we see when hospitals elect to maintained vulnerable, legacy systems 
+rather than updating and protecting them as vulnerabilities are identified.
+These institutions have witnessed cyber attacks on other organizations for
+years, but have failed to revise their systems to protect them from those same 
+attacks. This leads us to our first ethical concern. Why are institutions like
+hospitals not updating and securing their technical infrastructure? It's
+possible that in some of these cases it all comes down to money. 
 
 The first ethical concern is raised when these institution are looking at their
 infrastructure and vulnerabilites with a monetary lense when deciding how to
@@ -70,7 +72,3 @@ actions that jeopardize digital assets and operations dependent on those assets.
 Additionally, they prompt a deeper look into the reasons for vulnerabilities 
 among targeted institutions which shed light on the ethicality of the decisions
 being made at the exective level. 
-
-Left to Do
-----------
-1. Cite the class term, inertia bias.

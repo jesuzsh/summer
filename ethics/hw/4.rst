@@ -1,0 +1,125 @@
+Jesus Garcia
+============
+Homework for day 9, 10, and 11.
+
+Day 9
+-----
+1a. I would say that this analogy is appropriate. In regards to derivative
+works, they are a bit unique in their own way, but do not take away anything
+from the original work. The original work is special in that it paved the way
+for derivative works to exist.
+
+1b. A reason why the fire starter should share is so the other strangers can
+start doing other things for the benefit of the camp. Instead of wasting time
+trying to do something someone else has already done, they can be gather food
+or setting up shelter which at the end of the day would benefit everyone. She
+should not get anything in return for sharing because of my point above where
+she will get the benefits that come with saving everyone else time.
+
+2. The strongest and weakest is identified as I rebuttal each point.
+   * Rebuttal: Work a job to afford it. This is the strongest point because
+     money shouldn't be a barrier to anything, yet it's the barrier to
+     everything. 
+   * A rebuttal to this is that there is a slippery slope fallacy because when
+     you start using this reasoning, you're going to start messing with other
+     large and rich companies.
+   * Rebuttal, if it isn't retail price then the company will still lose. It
+     wouldn't be what they intended. 
+   * Rebuttal: Borrowing is not the same as owning, and if you own, you should
+     have paid for it. 
+   * Rebuttal: Your actions contribute to priracy! A deontologist would say
+     "shame on you."
+   * Rebuttal: Just because everyone does it, doesn't mean you should do it. If
+     everyone jumps off a cliff, will you also jump? I say this one is the
+     weakest because following the masses doesn't promote individuality. 
+   * Rebuttal: Google exists for a reason, you can find out that information
+     with the blessing of the internet. 
+   * Rebuttal: You're still acting as a source of piracy and that is not ok. 
+
+Day 10
+------
+1. A)
+Dotcom offense:
+* By maintaining and managing the website, Dotcom is in a way circumventing
+  DRM, which is against DMCA.
+* Take-down notices were ignored.
+Dotcom defense:
+* The safe harbor component of DMCA protects Dotcom because the users are the
+  ones doing copyright infringement. 
+* Running a web site is completely different from committing a crime.
+Questions:
+* To Dotcom: How much money did you get from your website and how was money
+  coming in?
+* To MPAA/RIAA: Who were the artists most affected by this site's existance and
+  how were they affected?
+
+2. B) I do not believe these statements are equally valid. I would say that the
+   first statement is valid because given the nature of digital stuff, there's
+   only so much that can be done. DMCA's anti-circumvention is probably the
+   best thing that can be done to stop copyright infringment. The next best
+   thing would be to encode software in the digital files that stops any
+   copyright from the inside, but of course, technology like that is going to
+   come at a premium and will first make its rounds through the government for
+   their stuff. The second statement is not valid becuase the trauma that comes
+   with being robbed is not something worth taking a chance on. I think people
+   don't have locks on their doors because they don't know what it feels like
+   to live in fear and anyone who knows that feeling would have more than good
+   locks on their doors. 
+
+Day 11
+------
+1. 
+   * Category 1: An ethical digital manipulation could be a time-lapse exposure
+     image from SpaceX discussed in `this article
+     <https://www.businessinsider.com/time-lapse-image-of-spacex-rocket-launch-and-landing-2015-12>`_.
+     I'd consider this ethical because it shows the full story of this single
+     event. To my limited photography knowledge, it's just a collection of real
+     photos overlayed into a single image. Everything involved in this
+     manipulation is truth, and in the end, there's a single picture that
+     captures the entire event. Something like that is not possible without the
+     digital manipulation. 
+   * Category 2: Images published on the first page of Fox News reporting
+     protest in Seattle. Article with images can be found `here
+     <https://www.seattletimes.com/seattle-news/politics/fox-news-runs-digitally-altered-images-in-coverage-of-seattles-protests-capitol-hill-autonomous-zone/>`_.
+     There are multiple digital manipulations that inaccurately report the
+     protests in Seattle which is why I believe it's unethical. This is an
+     outlet that many people monitor and when they are inaccurately covering a
+     story, it leads to many people recieving inaccurately information and
+     forming inaccurately images of what's actually going on in thier heads. I
+     just wonder who's idea it was to photoshop these images and why that
+     person is allowed to do something like this at this scale.
+   * Category 3: `This site <https://www.fotor.com/features/red-eye.html>`_
+     offers red-eye correction along with other photo manipulations. An
+     argument for this kind of service is that something like red-eyes in a
+     photo should be there, so correcting it only makes the image more real
+     because humans don't have red-eyes like the ones that sometimes appears in
+     photos. As an argument against these type of manipulations, a service like
+     a blemish remover makes the photo less real. At the time the photo was
+     taken, it may have been a time when the subject of the photo had various
+     blemishes and it would make the moment being caputured more disconnected
+     from the real moment. 
+
+2. I think "photoshop laws" are a step in the right direction. The laws in
+   isreal where a warning label is required for photoshopped images is one way
+   to contain the negative impacts of photoshoping. People can know the truth
+   behind an image if it's simply the original image or if it's a digital
+   manipulation with a warning label. These are not exactly the same but are
+   efforts toward a more transparent system. I would say that altering images
+   for advertisements is more okay when the subjects of adverts are non-human.
+   When it comes to humans, digital manipulations could have more of an impact
+   because the audience will see the lies and relate it to themselves. I don't
+   care for pictures or altering. I have altered in the past when I was younger
+   and didn't think too much about anything. I have nothing to say about other
+   people altering their images, they're doing it for whatever reason that I
+   have no say in. 
+
+3. Fair Use Doctrine Analysis
+   * Purpose and nature of use - Commercial reasons. Fairey produced this work
+     for monetary gain.
+   * Nature of the copyrighted work - There is the added words "HOPE".
+     Additionally, the image is now half blue and half red. 
+   * Amount and significance of portion used - All of Obama was what was
+     used in the alleged copyright image. Obama was all of the value of the
+     original photo it's safe to say that a significant portion was used.
+   * Effect of use on potential market or value of the copyright work (will it
+     reduce sales?) - a
