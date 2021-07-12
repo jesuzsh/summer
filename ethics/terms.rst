@@ -629,3 +629,41 @@ Phishing
 * Requests for personal and financial information disguised as legitimate
   business communication e-mail.
 
+From Day 15
+===========
+Gambling, Wire Act 1961, RAWA, UIGEA
+* State lotteries
+* Fantasy Sports
+
+RAWA
+----
+* Introduced in March of 2014, reintroduced 2/2015
+* Restoration of America's Wire Act would rewrite the Federal Wire Act of 1961
+  with the goal of extending the Wire Act to ban most forms of online gambling
+  (whether such activity was legalized and regulated by state governments or
+  not).
+
+Unlawful Internet Gambling Enforcement Act (2006) - UIGEA
+---------------------------------------------------------
+* it is forbidden to accept "any financial instrument" for internet gambling.
+  * Includes game of chance  
+  * Still ok: fantasy sports, legal intrastate gambling; does not mention state
+    lottries or horse racing.
+
+
+From Day 16
+===========
+Job creation and destruction, Availability: education vs. jobs, Telecommuniting,
+Outsourcing and off-shoring
+* ECPA exception
+
+Out; Off, In: Shoring
+=====================
+* Outsourcing - phenomenon in which a company pays another company for services
+  instead of performing those tasks itself.
+* Offshoring - the practice of moving business processes or services to another
+  country, especially overseas, to reduce costs.
+* Inshoring - when another company employs thousands of people in the U.S. (e.g.
+  offshoring for a German company means inshoring for U.S.)
+* Almost 5% of U.S. workers are employed by foreign companies.
+

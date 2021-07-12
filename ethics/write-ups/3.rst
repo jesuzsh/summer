@@ -1,0 +1,77 @@
+Paper 3: Ethical Analysis
+=========================
+By Jesus Garcia
+
+Situation (Article Title)
+-------------------------
+Following lawsuits, Snapchat pulls its controversial speed filter
+
+Major Points
+------------
+Section 230 of the Communications Decency Act no longer protecting Snapchat
+
+Ethical Concerns
+----------------
+* "Demonstrably dangerous speed filter" 
+* Design of snapchat, which the lawsuit brought to light
+
+
+Draft
+-----
+Imagine driving a vehicle and having the following thought come to you, "I'm
+going to go dangerously fast, document it with Snapchat, and share it with
+friends." This may or may not have been what has gone through the minds of
+several teenagers using the platform over the last few years with multiple car
+accidents, injuries and deaths being related to the use of a single
+controversial Snapchat filter (Silberling, 2021). This write-up will take a look
+at the filter's ramifications and how Snapchat's design and response to fatal
+accidents shows a company that doesn't put users first.
+
+The filter in quesion is one that allows you to measure the speed,
+miles/kilometers per hour, of the user, so naturally, it was common to use this
+feature when in a vehicle to add another layer to the snaps a user can send. 
+Since 2013, Snapchat has been providing the controversial speed filter to its
+users. Until recently, they've felt protected under **Section 230** of the
+Communications Decency Act which protects Snapchat, as the provider, from being
+tied to the publisher of any content on their platform (Potasznik, Day 6). So
+for years, Snapchat has stood by this law when it came to the multiple car
+accidents, injuries and deaths related to the use of the speed filter.
+**Argument from authority** fallacy is the belief that if an authority says
+something, its veracity is beyond doubt (Potasznik, Day 3). This is exactly
+what Snapchat has succumbed themselves too over the years with the authority
+being Section 230 of the Communications Decency Act and its association with the
+veracity of their decision to maintain the filter over all this time. 
+
+To focus a bit more on the speed filter's ramifications we can take a look at
+an incident mentioned in the article. One teen strikes another driver's car at
+107 miles per hour. The lawyer of the struck driver claims the teen wanted to
+post the high speed on snapchat (Silberling, 2021). Here we start to see how a
+user of Snapchat's desires to go dangerously fast is related to the filter. 
+Without the filter, there is no way a non-filtered selfie could prove a fast 
+car's speed. Devestating incidents like this have been around since the filter's
+inception in 2013. However, it wasn't until May 2021 that the Ninth Circuit
+Appeals Court ruled that Section 230 no longer protects Snap, Inc. The ruling
+summary states, "plintiffs' claim did not treat Snap, Inc. as a 'publisher or
+speaker' because the plaintiffs' claims turned on Snap, Inc.'s design of
+Snapchat" (United States Court of Appeals for the Ninth Circuit, 2021). Now that
+Section 230 doesn't protect Snap, Inc. anymore, they've announced the removal of
+the filter. Only when the filter starts to lead to legal troubles, did Snapchat 
+remove it, but when there were several terrible accidents over the years, the
+company chose to maintain it. 
+
+Snapchat is making a platform that they hope its users enjoy using, so they
+must make sure that that platform has appealing features. A speed filter could 
+be seen as a simple, neat filter that leverages modern technology. The problem
+I see with this perspective is that it doesn't go deeper into the possible 
+ramifications that come with this feature. The worse part about all of this is
+the response Snapchat had to those ramifications when they started making
+themselves known. The earliest incident mentioned in the article happened in
+2016, but due to the protections Snapchat had from Section 230, they kept the
+fitler. A change to the filter that discourages driving at dangerous speeds,
+like capping the recorded speed to something safer, would have shown effort
+from Snapchat's part. Their decision here shows how the company would rather
+keep a staple, potentially dangerous, feature than remove it entirely to prevent
+a serious accident from happening again. This action shows a lack of concern
+for the safety of their users and these are the types of unethical decisions
+that breed a culture of disconnect to the user base among the elites of the
+tech industry. 
