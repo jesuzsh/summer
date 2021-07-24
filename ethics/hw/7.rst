@@ -1,0 +1,101 @@
+Jesus Garcia
+============
+Homework for Day 18, 19 and 20.
+
+Day 18
+------
+1. Someone else that trusts wisdom of the crowd is my uber driving using the
+   official Uber app to process my ride, but then immediatly switching to the
+   Waze app for directions on how to get to the destination. Switching/using
+   Waze is a change in his behavior, most likely due to his positive experience
+   with the accuracy of Waze's wisdom of the crowd model. I think when it comes
+   to the driving experience, getting from point A to B is a similar experience
+   for all. Therefore, gathering those experiences on a platform like Waze
+   sounds like a good idea. 
+
+2. I was somewhere along the backroads and Google maps decides to fail me.
+   Instead of using a handy dandy map, I trusting Google's navitation and it's
+   dependence on good cellular service caused it to fail me. This has not
+   changed my behavior because there appears to be too much work involved in
+   utilizing a map. Understanding your location in real time in relation to
+   your destination is too valuable. 
+
+3. Staying away from algorithmic confirmation bias is one method. This can be
+   done by staying away from social medias altogether. It seems like any post
+   has the potential to perpetuate confirmation bias in some way. When it comes
+   to the obvious ones, I'll see it and have a reactive response toward it but
+   then do nothing after that. I feel like my reactive response isn't really up
+   to me and the best thing I can do is not be swayed by anything other than my
+   intentional "good-willed" decisions. 
+
+Day 19
+------
+1. * This makes me feel like technology is changing everything, includng the
+     way children play.
+   * I wouldn't say it's unnessary. I'd say technology isn't going anywhere, so
+     preparing children to feel comfortable around it is where the world is
+     heading.
+   * Advantage: 1. No more small physical items to keep track of. It's all digital
+     and limitless. 2. Children learn to feel comfortable around something that
+     will be a part of their everyday life. 
+     Disadvantage: 1. Children begin using technology frequently, and in ways
+     that don't grow their cognitive abilities. Doing mindless activities. 2.
+     The computer version of a board game is always going to require more money
+     and reasources than the physical versions, so accessibility would be a
+     problem.
+
+2. One of the most valid Luddite criticisms is the idea that technology pathes
+   the way for more problems, like a slippery slope. You want an apple watch to
+   use a new feature that comes with the latest iPhone. One of the least
+   worrisome is technology's ability to replace the workforces. I acknowledge
+   the problems that come with displacing people in this way, but I just think
+   humans aren't meant to do the things the same way forever. Years from now we
+   are going to be on a level we can't fathom right now. 
+
+3. A concern I have is checking my phone for no gain. 2 minutes or 20, I wish
+   I didn't just look through something on my phone and come out with
+   no growth. 
+
+4. I experience digital dementia when I realize I don't know my mom's number by
+   memory. I feel like I don't need to have the number memorized when it's on
+   my phone, but I also feel like I'm betraying her.
+
+Day 20
+------
+1. If my bill was somehow getting paid, I don't think I would question it
+   initially, or even the second time. I definitely wouldn't use this glitch in
+   the matrix for lavish personal experiences, like the Australian couple did.
+   I think the protocol should be, if someone was being phased negatively by
+   the glitch, they should report it and the person benefitting from it should
+   be honest about the situation. If they took advantage and went crazy, they
+   should be punished for having that mindset. However, if they just let it
+   happen and didn't report but also didn't exploit, they should be able to help
+   sort out the situation. Pay back if they need to which won't be anything
+   crazy if there was no exploiting.
+
+2. I think it's devastating. A single software glitch had such a negative
+   impact on some people's livelihood. If the scores were reported higher than
+   reality, I do not think the error would have been discovered. People
+   actually would have been rewarded for this. When things are good, I think
+   people pay less attention to why are things good and tend to ask less
+   questions. It would take a teacher or teachers who really care about the
+   success of students to dig deeper into the scores and I think that's a lot
+   to ask of someone who already does so much for others/their students.
+
+3. Design considerations:
+   * Must be intuitive, people need to easily be able to vote
+   * Must be secure, should not have vulnerabilities that could jeopardize the
+     integrety of the votes. 
+   * The design of the webste should not encourage the user to do anything in
+     particular. Everything about the site should be neutral.
+
+   Pros:
+   * It's accessible to people, convenient
+   * Removes the need for physical labor
+   Cons:
+   * Not everyone has internet access, so it'd be inaccessible to those people
+   * It can be hacked and tampered with. 
+
+   Overall, I think it's a good idea, but extremely hard to execute. People
+   need to be extremely thoughtful and meticulous and if that can be guaranteed
+   then I think it should happen. 

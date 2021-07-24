@@ -658,7 +658,7 @@ Outsourcing and off-shoring
 * ECPA exception
 
 Out; Off, In: Shoring
-=====================
+---------------------
 * Outsourcing - phenomenon in which a company pays another company for services
   instead of performing those tasks itself.
 * Offshoring - the practice of moving business processes or services to another
@@ -667,3 +667,81 @@ Out; Off, In: Shoring
   offshoring for a German company means inshoring for U.S.)
 * Almost 5% of U.S. workers are employed by foreign companies.
 
+From Day 18
+===========
+Evaluating information, Wisdom of the crowd, Computer Modeling, Online Degrees
+- Scams
+* Making decisions about technology
+
+Wisdom of the Crowd
+-------------------
+* Best definition: The more who contribute, the more accurate the results
+* If millions participate, the results will be useful
+* Daunting amount of information on the web, much of this information is not
+  correct.
+* Search engines are replacing librarians, but Web sites are ranked by
+  popularity, not by expert evaluation.
+
+Abdication of Responsibility
+----------------------------
+* "Giving up control/authority"
+  * People may be willing to let computers do their thinking
+  * Reliance on computer systems over human judgement may become
+    institutionalized.
+
+From Day 19
+===========
+The Digital Divide, Neo-Luddites, Conflict Minerals
+* Technological singularity
+
+The Digital Divide
+------------------
+* The gap between people who have ready access to technology and the internet and
+  those who do not.
+
+Neo Luddites
+------------
+* Believe that technology is more harmful to society that it is beneficial.
+* Roots in Industrial Revolution (late 18th, early 19th centuries)  
+
+Digital Dementia
+----------------
+* Short term memory dysfunction caused by reliance on digital devices rather
+  than memory
+* "While many of us grew up remembering phone numbers and other key information
+  simply by memorizing it, most kids today have grown up not needing to
+  remember things like phone numbers because we have devices that do it for
+  us." -Alzheimers.net statement
+
+Planned Obsolescence
+--------------------
+* "... designing a product with an artificially limited use life, so it will
+  become obsollete, that is, unfashionably or no longer functional after a
+  certain period of time."
+
+E-Waste
+-------
+* Computers seperate humans from nature and destroy the environment
+
+Technological Singularity
+-------------------------
+* point at which artificial intellignce or some combined human-machine
+  intelligence advances so far that we cannot control it
+* We cannot prepare for aftermath, but prepare for more gradual developments
+
+From Day 20
+===========
+Glitches
+* Voting machines
+* Billing
+
+Legacy Systems
+--------------
+* Reliable but inflexible
+* Little or no documentation
+* Expensive to replace
+* Obscure to new users
+
+Nonlinear
+---------
+* changes in output are not proportional to changes in input

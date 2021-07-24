@@ -1,0 +1,34 @@
+Paper 4(5): Ethical Analysis
+============================
+By Jesus Garcia
+
+Situation (Article Title)
+-------------------------
+How Tencent's sweeping new facial scans will catch Chinese kids playng past
+curfew.
+* In China, minors can't legally play past 10pm
+
+Perspectives
+------------
+* Government (Video game addiction prevention)
+* Older generation (Support facial scans)
+* Younger generation (Used grandparent's account to play)
+
+Ethical Concerns
+----------------
+* Creeping normalcy (also a type of cognitive bias)
+* Power of Chinese influence
+  * Other countries could follow in their footsteps
+* Repurposing of technology used for human rights abuses, in a way, justifies
+  their use. 
+* WHO will hold them accountable? Pos cuidst pos quidis?
+* What will this techonology be used for?
+
+Draft
+-----
+In the U.S., facial recognition is used to unlock our smartphones. In China,
+the same technology is used to lock minors out of mobile games if caught
+playing outside of a gaming curfew (Hollister, 2020). This type of restiction
+is not new to China. There's been a growing conern of video games and the
+impact it can have on the youth, so in the name of video game addiction
+prevention, the government of China has gotten stricter with their 
