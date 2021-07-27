@@ -28,7 +28,53 @@ Draft
 -----
 In the U.S., facial recognition is used to unlock our smartphones. In China,
 the same technology is used to lock minors out of mobile games if caught
-playing outside of a gaming curfew (Hollister, 2020). This type of restiction
-is not new to China. There's been a growing conern of video games and the
-impact it can have on the youth, so in the name of video game addiction
-prevention, the government of China has gotten stricter with their 
+playing outside of a gaming curfew (Hollister, 2021). In 2018, the gaming
+company, Tencent, was the first to apply this technology to a subset of
+their users (Huang, 2018). There's been a growing conern with the impact video
+games could have on the youth in China. This concern has led to an increase in
+regulation around video game addiction prevention. Pairing state of the art
+surveillence technology and video game addiction must not take the spotlight
+away from potential misuses of such technology by the Chinese government.
+
+A type of cognitive bias that's made all of this possible is creeping normalcy.
+This is when incremental change results in calm acceptance (Potasznik, Day 3).
+The incremental change started with the implementation of a
+nationwide system designed to improve policing practices, which spread 
+throughout the country to the hundreds of millions of cameras in use today
+(Gates, 2021). Over the years, the Chinese government has been advancing it's
+infrastructure to the point where it can now scan the face of a minor playing a
+game on their phone and cross check that with a government database that
+identifies the exact person using the phone. When this is being done in the name
+of video game addiction prevention, so there is going to be little to no backlash.
+With little resistance, this type of technology is going to continue being
+developed and widely adopted by the millions of phones in the country, which is
+a continuation of the creeping normalcy that's been happening. Who knows where
+this is heading, but more importantly what the government will use it for?
+
+Extending this technology into the realm of mobile video games is only expanding
+on the already powerful infrastructure of China's mass surveillance network. The
+continued growth calls for increased accountability to ensure that 
+abuse and oppression doesn't result from these technologies. For years, the
+Chinese government has subjected Turkic Muslims in the Xinjiang region to
+various crimes against humanity (Human Rights Watch, 2021). The targeting of
+ethnic groups in Xinjiang is much easier with an established mass surveillance
+network that can pin point the exact location of any citizen in the country
+within minutes. Since this has been happening, it shows that there is no humane
+oversight happening within the country. The government is aparently allowed to
+do this to their citizens. On the other hand, some recent applications of the
+government's systems are showing the world how the technology can be used for
+good. 
+
+In the times of the coronavirus pandemic, China was able to take the enforcement
+of the lockdown to the next level by tapping into their mass surveillance
+network. The moment a citizen went against the rules of lockdown they were found
+by the police and their bosses at work were contacted (Yang, Zhu, 2020). This
+level of accountability is something that's only possible at this level of
+surveillance. Going back to the surveillance of a minor's mobile gaming activity,
+this is being done for the good of minors. This technology is being implemented
+and required from gaming companies to combat the problem of video game
+addiction. Both, coronavirus lockdown enforcement and video game addiction
+prevention, are themes that show a government whose goal is to protect and serve
+their people. However, when that government is using the same technology for
+human rights abuses against Turkic Muslims in Xinjiang, it proves that they are
+not always trying to protect and serve. 
