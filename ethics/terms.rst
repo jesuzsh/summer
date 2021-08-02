@@ -745,3 +745,55 @@ Legacy Systems
 Nonlinear
 ---------
 * changes in output are not proportional to changes in input
+
+From Day 21
+===========
+Fatal Glitches, Ariane 5 Rocket, Antares, Therac-25, HRO structures
+* Challenger 1986
+* Columbia 2003
+* Boeing 737 Max
+* IV&V
+* TCAS
+
+Therac 25
+---------
+* Massive overdoses of radiation were given; the machine said no dose had been
+  administered
+* Caused severe and painful injuries; + the death of six patients
+* Manufacturer, computer programmer, and hospitals/clinics all have some
+  responsibility
+
+High Reliability Organization
+-----------------------------
+* preoccupation with failure
+* loose structure (no strict or intimidating hierarchy between programmers and
+  others)
+* An HRO is an organization that avoids disasters in a setting where
+  catastrophes would seem common due to high risk and complexity.
+
+Independent verification and validation (IV&V)
+----------------------------------------------
+* paying a third-party company to come and test/validate something
+
+Traffic Collision Avoidance System (TCAS)
+-----------------------------------------
+* Automated system that directs pilots in case of imminent collision.
+* Computers in some airplanes prevent certain pilot actions
+* Near misses and accidents
+
+From Day 22
+===========
+Professional ethics
+* ACM, IEEE
+* Start 9.3.1
+
+ACM
+---
+Association for Computing Machinery
+
+IEEE
+----
+Institute for Electrical and Electronics Engineers
+
+Both of the above professional associations have adopted the following code:
+* Software Engineering Code of Ethics and Professional Practice
