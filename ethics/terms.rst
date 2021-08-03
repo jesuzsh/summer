@@ -266,7 +266,7 @@ Fair Information Principles
 
 The 4th Amendment
 -----------------
-The right of the people to be secure in their person, houses, papaers, and
+The right of the people to be secure in their person, houses, papers, and
 effects, against unreasonable seizures, shall not be violated, and no Warrents
 shall issue, but upon probable cause, supported by Oath or affirmation, and
 particularly describing the place to be searched, and the persons or things to

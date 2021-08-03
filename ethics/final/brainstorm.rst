@@ -108,5 +108,39 @@ to adapt?
   project as you do, are more flexible when it comes to the development of the
   project. 
 
+Analysis
+========
 
+1: Refuse to work on project unless testing procedure is improved, shows serious
+ > Talk to my boss, the project manager explaining how as a computing
+   professional, it is only right that the current testing policy is changed.
+   > Yes: Overall code quality will improve
+     > Work with my team to make a highly reliable system. This dynamic reflect
+       highly reliable organization which is ideal for this system's particular
+       use cases.
+   > No: Consider leaking my company's testing plan. Forcus on 3 things to
+     consider before leaking
 
+2: Stick to current testing plan
+ > Go through with the development of the platform and do entirety of testing in
+   a field next to the office.
+   > I could leak the state of the system. Similar to option 1. With the hopes
+     of preventing its use in a disaster. 
+   > Complete the project and remain silent of its shorcomings.
+
+3: Ensure that the project is completed with adequate testing
+ > Advocate for unit testing, ensuring that every line of code is tested.
+   > Try to tell your coworks, fellow professionals, referencing the software
+     ethic code that IEEE does. 
+   > You get no help. You are ethically obligated to do as much testing as
+     possible. You must put in the extra hours so the system is reliable and
+     thoroughly tested. With utilitarian reasoning, any suffering you must go
+     through to make this happen is worth it because the system will help people
+     during a disaster. 
+
+Synthesis
+=========
+
+Option 3 is the best. It's the one that give you the most valuable experience as
+a developer and is best for all the people affected by the system you are
+developing.
