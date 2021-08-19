@@ -59,3 +59,24 @@ A few thoughts on African history and the Third World movement
 * In the academic field, worthwhile endeavors are being made in the Third World
 * For identity in Africa and for identity in the United States by the blacks,
   African history has a role to play
+
+
+Notes from Dreams from My Father: A Story of Race and Inheritance
+=================================================================
+By Barack Obama
+
+What was everyday life like in precolonial Africa [before Europeans came]
+during the childhood of Obama's grandfater?
+* 
+
+
+Describe the impact of European colonialism [after Europeans came] on Obama's
+grandfather's life, in particular.
+*
+
+
+Describe how both his African and White grandfathers were similar in having
+"ants in the anus" or being restless? How were both grandfathers similar about
+private property?
+*
+
