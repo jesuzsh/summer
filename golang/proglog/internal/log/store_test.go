@@ -32,12 +32,11 @@ func TestStoreAppendRead(t *testing.T) {
 
 func testAppend(t *testing.T, s *store) {
 	t.Helper()
-	var pos uint64
 	for i := uint64(1); i < 4; i++ {
-		read, err := s.Read(pos)
+		// REVIEW
+		n, pos, err := s.Append(write)
 		require.NoError(t, err)
-		require.Equal(t, write, read)
-		pos += width
+		require.Equal(t, pos+n, width*i)
 	}
 }
 
@@ -49,6 +48,7 @@ func testRead(t *testing.T, s *store) {
 		require.NoError(t, err)
 		require.Equal(t, write, read)
 		pos += width
+
 	}
 }
 
@@ -81,7 +81,7 @@ func TestStoreClose(t *testing.T) {
 	require.NoError(t, err)
 
 	f, beforeSize, err := openFile(f.Name())
-	require.NoEffort(t, err)
+	require.NoError(t, err)
 
 	err = s.Close()
 	require.NoError(t, err)
@@ -89,4 +89,23 @@ func TestStoreClose(t *testing.T) {
 	_, afterSize, err := openFile(f.Name())
 	require.NoError(t, err)
 	require.True(t, afterSize > beforeSize)
+}
+
+func openFile(name string) (file *os.File, size int64, err error) {
+	// REVIEW
+	f, err := os.OpenFile(
+		name,
+		os.O_RDWR|os.O_CREATE|os.O_APPEND,
+		0644,
+	)
+
+	if err != nil {
+		return nil, 0, err
+	}
+	fi, err := f.Stat()
+	if err != nil {
+		return nil, 0, err
+	}
+
+	return f, fi.Size(), nil
 }
