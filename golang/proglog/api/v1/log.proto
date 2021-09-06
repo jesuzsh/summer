@@ -1,8 +1,41 @@
+// Notes come from the following textbook:
+// Distributed Services with Go
+// By Travis Jeffery
 syntax = "proto3";
 
 package log.v1;
 
 option go_package = "github.com/jesuzsh/api/log_v1";
+
+// service keyword says that this is a service for the compiler to generate, and
+// each RPC line is an endpoint in that service, specifiying the type of request
+// and responsethe endpoint accepts.
+service Log {
+        rpc Produce(ProduceRequest) returns (ProduceResponse) {}
+        rpc Consume(ConsumeRequest) returns (ConsumeResponse) {}
+        // a server-side streaming RPC where the client sends a request to the
+        // server and gets back a stream to read a sequence of messages
+        rpc ConsumeStream(ConsumeRequest) returns (stream ConsumeResponse) {}
+        // a bidirectional streaming RPC where both the client and server send a
+        // sequence of messages using a read-write stream
+        rpc ProduceStream(stream ProduceRequest) returns (stream ProduceResponse) {}
+}
+
+message ProduceRequest {
+        Record record = 1;
+}
+
+message ProduceResponse {
+        uint64 offset = 1;
+}
+
+message ConsumeRequest {
+        uint64 offset = 1;
+}
+
+message ConsumeResponse {
+        Record record = 2;
+}
 
 message Record {
         bytes value = 1;
