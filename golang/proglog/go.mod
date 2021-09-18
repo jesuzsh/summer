@@ -3,6 +3,8 @@ module github.com/jesuzsh/proglog
 go 1.13
 
 require (
+	github.com/casbin/casbin v1.9.1
+	github.com/cloudflare/cfssl v1.4.1 // indirect
 	github.com/gorilla/mux v1.8.0
 	github.com/stretchr/testify v1.7.0
 	github.com/tysontate/gommap v0.0.0-20210506040252-ef38c88b18e1

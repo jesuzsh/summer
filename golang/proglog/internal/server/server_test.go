@@ -7,15 +7,18 @@ import (
 	"testing"
 
 	api "github.com/jesuzsh/proglog/api/v1"
+	"github.com/jesuzsh/proglog/internal/config"
 	"github.com/jesuzsh/proglog/internal/log"
 	"github.com/stretchr/testify/require"
 	"google.golang.org/grpc"
+	"google.golang.org/grpc/credentials"
 )
 
 func TestServer(t *testing.T) {
 	for scenario, fn := range map[string]func(
 		t *testing.T,
-		client api.LogClient,
+		rootClient api.LogClient,
+		nobodyClient api.LogClient,
 		config *Config,
 	){
 		"produce/consume a message to/from the log succeeds": testProduceConsume,
@@ -23,29 +26,82 @@ func TestServer(t *testing.T) {
 		"consume past log boundary fails":                    testConsumePastBoundary,
 	} {
 		t.Run(scenario, func(t *testing.T) {
-			client, config, teardown := setupTest(t, nil)
+			rootClient,
+				nobodyClient,
+				config,
+				teardown := setupTest(t, nil)
 			defer teardown()
-			fn(t, client, config)
+			fn(t, rootClient, nobodyClient, config)
 		})
 
 	}
 }
 
 func setupTest(t *testing.T, fn func(*Config)) (
-	client api.LogClient,
+	client,
+	_ api.LogClient,
 	cfg *Config,
 	teardown func(),
 ) {
+	// PART 1: We configure our client's TLS credentials to use our CA as
+	// the client's Root CA (the CA it will use to verify the server). Then
+	// we tell the client to use those credentials for its connection.
 	t.Helper()
 
-	l, err := net.Listen("tcp", ":0")
+	l, err := net.Listen("tcp", "127.0.0.1:0")
 	require.NoError(t, err)
+	newClient := func(crtPath, keyPath string) (
+		*grpc.ClientConn,
+		api.LogClient,
+		[]grpc.DialOption,
+	) {
+		tlsConfig, err := config.SetupTLSConfig(config.TLSConfig{
+			CertFile: crtPath,
+			KeyFile:  keyPath,
+			CAFile:   config.CAFile,
+			Server:   false,
+		})
+		require.NoError(t, err)
+		tlsCreds := credentials.NewTLS(tlsConfig)
+		opts := []grpc.DialOption{grpc.WithTransportCredentials(tlsCreds)}
+		conn, err := grpc.Dial(l.Addr().String(), opts...)
+		require.NoError(t, err)
+		client := api.NewLogClient(conn)
+		return conn, client, opts
+	}
 
-	clientOptions := []grpc.DialOption{grpc.WithInsecure()}
-	cc, err := grpc.Dial(l.Addr().String(), clientOptions...)
+	var rootConn *grpc.ClientConn
+	rootConn, rootClient, _ = newClient(
+		config.RootClientCertFile,
+		config.RootClientKeyFile,
+	)
+
+	var nobodyConn *grpc.ClientConn
+	nobodyConn, nobodyClient, _ = newClient(
+		config.NobodyClientCertFile,
+		config.NobodyClientKeyFile,
+	)
+
+	// PART 2: Hook up our server with its certificate and enable it to
+	// handle TLS connections. Parse the server's cert and key, which we
+	// then use to configure the server's TLS credentials. We then pass
+	// those credentials as a gRPC server option to our NewGRPCServer()
+	// function so it can create our gRPC server with that option. gRPC
+	// server options are how you enable features in gRPC servers.
+	// NOTE: We're setting the credentials for the server connections in
+	// this case, but there are plenty of other server options to configure
+	// connection timeouts, keep alive policies, and so on.
+	serverTLSConfig, err := config.SetupTLSConfig(config.TLSConfig{
+		CertFile:      config.ServerCertFile,
+		KeyFile:       config.ServerKeyFile,
+		CAFile:        config.CAFile,
+		ServerAddress: l.Addr().String(),
+		Server:        true,
+	})
 	require.NoError(t, err)
+	serverCreds := credentials.NewTLS(serverTLSConfig)
 
-	dir, err := ioutil.TempDir("", "sever-test")
+	dir, err := ioutil.TempDir("", "server-test")
 	require.NoError(t, err)
 
 	clog, err := log.NewLog(dir, log.Config{})
@@ -57,28 +113,30 @@ func setupTest(t *testing.T, fn func(*Config)) (
 	if fn != nil {
 		fn(cfg)
 	}
-	server, err := NewGRPCServer(cfg)
+	server, err := NewGRPCServer(cfg, grpc.Creds(serverCreds))
 	require.NoError(t, err)
 
-	// REVIEW
 	go func() {
 		server.Serve(l)
 	}()
 
-	client = api.NewLogClient(cc)
-
-	return client, cfg, func() {
+	return rootClient, nobodyClient, cfg, func() {
 		server.Stop()
-		cc.Close()
+		rootConn.Close()
+		nobodyConn.Close()
 		l.Close()
-		clog.Remove()
 	}
 }
 
 // tests that producing and consumin gworks by using our client and server to
 // produce a record to the log, consume it back, and then check that the record
 // we sent is the same one we got back.
-func testProduceConsume(t *testing.T, client api.LogClient, config *Config) {
+func testProduceConsume(
+	t *testing.T,
+	client,
+	_ api.LogClient,
+	config *Config,
+) {
 	// REVIEW
 	ctx := context.Background()
 
@@ -106,7 +164,8 @@ func testProduceConsume(t *testing.T, client api.LogClient, config *Config) {
 // client tries to consume beyond the log's boundaries.
 func testConsumePastBoundary(
 	t *testing.T,
-	client api.LogClient,
+	client,
+	_ api.LogClient,
 	config *Config,
 ) {
 	// REVIEW
@@ -136,7 +195,8 @@ func testConsumePastBoundary(
 // consume through streams.
 func testProduceConsumeStream(
 	t *testing.T,
-	client api.LogClient,
+	client,
+	_ api.LogClient,
 	config *Config,
 ) {
 	ctx := context.Background()

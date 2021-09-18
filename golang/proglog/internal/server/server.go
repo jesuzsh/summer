@@ -15,8 +15,11 @@ var _ api.LogServer = (*grpcServer)(nil)
 
 // Instantiates your service, creates a gRPC server, and registers your service
 // to that server. REVIEW
-func NewGRPCServer(config *Config) (*grpc.Server, error) {
-	gsrv := grpc.NewServer()
+func NewGRPCServer(config *Config, opts ...grpc.ServerOption) (
+	*grpc.Server,
+	error,
+) {
+	gsrv := grpc.NewServer(opts...)
 	srv, err := newgrpcServer(config)
 	if err != nil {
 		return nil, err
